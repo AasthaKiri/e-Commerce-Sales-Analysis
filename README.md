@@ -18,4 +18,7 @@ Power Query was used to carefully extract and sanitize the data. After then, DAX
 1. In category-wise sales clothing category contributes in majority (63%) of the sales and consumers prefer to pay through COD(cash on delivery) mode. 
 2. The dashboard reveals that the maximum sales are from Maharashtra. This information can help in identifying the target markets and strategizing product offerings based on regional preferences.
 3. The profit by month indicates that the sales peaked in May with a profit of 121K. It would be beneficial to analyze the factors contributing to this increase and implement them in the following months.
-4. Printer sub-category is the top contributor to profits,
+4. Printer sub-category is the top contributor to profits.
+
+## Snapshots of Dashboard
+
