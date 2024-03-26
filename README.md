@@ -22,3 +22,8 @@ Power Query was used to carefully extract and sanitize the data. After then, DAX
 
 ## Snapshots of Dashboard
 
+### Overview
+![Screenshot 2024-03-26 113228](https://github.com/AasthaKiri/e-Commerce-Sales-Analysis/assets/98647483/fc73c11a-2481-43a9-b5cd-0b34bd91e2a3)
+
+### Information per Quaters:
+
