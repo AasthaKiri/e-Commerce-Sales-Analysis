@@ -27,3 +27,15 @@ Power Query was used to carefully extract and sanitize the data. After then, DAX
 
 ### Information per Quaters:
 
+#### Quater-1
+![Screenshot 2024-03-26 114035](https://github.com/AasthaKiri/e-Commerce-Sales-Analysis/assets/98647483/98fbd577-8bde-4b40-8ec0-e94ed44e035c)
+
+#### Quater-2
+![Screenshot 2024-03-26 114049](https://github.com/AasthaKiri/e-Commerce-Sales-Analysis/assets/98647483/5ac31f26-e8a3-4a98-a7d1-41011c33a2f6)
+
+#### Quater-3
+![Screenshot 2024-03-26 114149](https://github.com/AasthaKiri/e-Commerce-Sales-Analysis/assets/98647483/0ac894b5-5e40-47e4-8c6b-e96bcbf32d91)
+
+#### Quater-4
+![Screenshot 2024-03-26 114203](https://github.com/AasthaKiri/e-Commerce-Sales-Analysis/assets/98647483/eacbda0d-1748-45e0-9cc6-394cf5aa5a46)
+
