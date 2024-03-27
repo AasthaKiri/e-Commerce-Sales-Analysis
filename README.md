@@ -7,7 +7,7 @@ Power Query was used to carefully extract and sanitize the data. After then, DAX
 ## Steps Followed:
 1. Data Extraction
 2. Data Loading
-3. Data Cleanind
+3. Data Cleaning
 4. DAX implementation
 5. Implementing KPI for Data Analysis
 6. Data Visualization
